@@ -1,0 +1,7 @@
+diff --git a/capitulos/capitulo3.txt b/capitulos/capitulo3.txt
+new file mode 100644
+index 0000000..6e501ab
+--- /dev/null
++++ b/capitulos/capitulo3.txt
+@@ -0,0 +1 @@
++Git permite la creación de ramas lo que permite tener distintas versiones del mismo proyecto y trabajar de manera simultanea en ellas.
